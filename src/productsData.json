@@ -1,0 +1,27 @@
+{
+	"Earrings" : [
+	{
+	"productID" : "JT001",
+	"Image" : "/path/to/image",
+	"Price" : 170
+},
+{
+	"productID" : "JT002",
+	"Image" : "/path/to/image",
+	"Price" : 190
+}
+   	 ],
+	"Bangles" : [
+	{
+	"productID" : "JTB001",
+	"Image" : "/path/to/image",
+	"Price" : 500
+},
+{
+	"productID" : "JTB002",
+	"Image" : "/path/to/image",
+	"Price" : 690
+}
+    	]
+	
+}
