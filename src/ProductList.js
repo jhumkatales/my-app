@@ -20,6 +20,13 @@ class ProductList extends Component {
               <ul>
                 {products.map(product => (
                  <li key={product.productID}>
+                   <img src={product.Image} alt="product" />
+                    <img src={product.Image} alt={product.productID} style={{ maxWidth: '100px' }} />
+                    <img
+                      src={require(`./${product.Image}`).default}
+                      alt={product.productID}
+                      style={{ maxWidth: '100px' }}
+                    /> 
                     {product.productID} - ${product.Price}
                  </li>
                 ))}
@@ -31,5 +38,5 @@ class ProductList extends Component {
     );
  }
 }
-
+console.log(productsData.Earrings[0].Image)
 export default ProductList;

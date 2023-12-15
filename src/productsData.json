@@ -2,24 +2,24 @@
 	"Earrings" : [
 	{
 	"productID" : "JT001",
-	"Image" : "/path/to/image",
+	"Image" : "Images/jhumka_earring_1.jpg",
 	"Price" : 170
 },
 {
 	"productID" : "JT002",
-	"Image" : "/path/to/image",
+	"Image" : "Images/jhumka_earring_2.jpg",
 	"Price" : 190
 }
    	 ],
 	"Bangles" : [
 	{
 	"productID" : "JTB001",
-	"Image" : "/path/to/image",
+	"Image" : "Images/jhumka_bangle_1.jpg",
 	"Price" : 500
 },
 {
 	"productID" : "JTB002",
-	"Image" : "/path/to/image",
+	"Image" : "Images/jhumka_bangle_2.jpg",
 	"Price" : 690
 }
     	]
