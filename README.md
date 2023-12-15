@@ -1,3 +1,5 @@
+**#Installation prcoess**
+To get started with react, you should have npm installed, which you can accomplish by following the link (https://www.tecmint.com/install-reactjs-on-ubuntu/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
