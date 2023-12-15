@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.f855e6bc.css",
-    "main.js": "/my-app/static/js/main.f6feeb8f.js",
+    "main.js": "/my-app/static/js/main.a507d6ce.js",
     "static/js/787.d4aba7ab.chunk.js": "/my-app/static/js/787.d4aba7ab.chunk.js",
+    "static/media/jhumka_earring_2.jpg": "/my-app/static/media/jhumka_earring_2.c39ab1ac1091bdb88429.jpg",
+    "static/media/jhumka_bangle_2.jpg": "/my-app/static/media/jhumka_bangle_2.0c5f4037cb81fc2d9d44.jpg",
+    "static/media/jhumka_earring_1.jpg": "/my-app/static/media/jhumka_earring_1.ec7a5a52039ff877159c.jpg",
+    "static/media/jhumka_bangle_1.jpg": "/my-app/static/media/jhumka_bangle_1.5fe666b2a199e42c5cb9.jpg",
+    "static/media/index.cjs": "/my-app/static/media/index.671993152dc0f6e0b17a.cjs",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/my-app/index.html",
     "main.f855e6bc.css.map": "/my-app/static/css/main.f855e6bc.css.map",
-    "main.f6feeb8f.js.map": "/my-app/static/js/main.f6feeb8f.js.map",
+    "main.a507d6ce.js.map": "/my-app/static/js/main.a507d6ce.js.map",
     "787.d4aba7ab.chunk.js.map": "/my-app/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f6feeb8f.js"
+    "static/js/main.a507d6ce.js"
   ]
 }
