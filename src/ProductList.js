@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import productsData from './productsData.json'; //import data from external json file
+import productsData from './productsData.json';
 
 class ProductList extends Component {
  constructor(props) {
     super(props);
     this.state = {
-      products: productsData, // set state with imported data
+      products: productsData,
     };
  }
 
